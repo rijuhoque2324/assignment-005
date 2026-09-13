@@ -61,54 +61,12 @@ const Nav = () => {
         <div className="border-t border-gray-200 bg-white px-4 py-4 md:hidden">
 
           <ul className="flex flex-col gap-4 text-sm text-slate-600">
-
-            <li>
-              <a
-                href="#home"
-                onClick={() => setIsOpen(false)}
-              >
-                Home
-              </a>
-            </li>
-
-            <li>
-              <a
-                href="#technologies"
-                onClick={() => setIsOpen(false)}
-              >
-                Technologies
-              </a>
-            </li>
-
-            <li>
-              <a
-                href="#projects"
-                onClick={() => setIsOpen(false)}
-              >
-                Projects
-              </a>
-            </li>
-
-            <li>
-              <a
-                href="#about"
-                onClick={() => setIsOpen(false)}
-              >
-                About
-              </a>
-            </li>
-
-            <li>
-              <a
-                href="#contact"
-                onClick={() => setIsOpen(false)}
-              >
-                Contact
-              </a>
-            </li>
-
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Technologies</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>        
           </ul>
-
         </div>
       )}
 

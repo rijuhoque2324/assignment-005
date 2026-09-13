@@ -29,24 +29,15 @@ const Footer = () => {
             {/* Social Links */}
             <div className="mt-6 flex items-center gap-5">
 
-              <a
-                href="#"
-                className="text-sm font-medium text-gray-600 transition hover:text-pink-500"
-              >
+              <a href="#" className="text-sm font-medium text-gray-600 transition hover:text-pink-500">
                 GitHub
               </a>
 
-              <a
-                href="#"
-                className="text-sm font-medium text-gray-600 transition hover:text-pink-500"
-              >
+              <a href="#" className="text-sm font-medium text-gray-600 transition hover:text-pink-500">
                 Twitter
               </a>
 
-              <a
-                href="#"
-                className="text-sm font-medium text-gray-600 transition hover:text-pink-500"
-              >
+              <a href="#" className="text-sm font-medium text-gray-600 transition hover:text-pink-500">
                 LinkedIn
               </a>
 
@@ -64,24 +55,15 @@ const Footer = () => {
 
             <div className="mt-4 flex flex-col gap-3">
 
-              <a
-                href="#home"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-500 hover:text-pink-500">
                 Home
               </a>
 
-              <a
-                href="#technologies"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-500 hover:text-pink-500">
                 Technologies
               </a>
 
-              <a
-                href="#projects"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-500 hover:text-pink-500">
                 Projects
               </a>
 
@@ -99,24 +81,15 @@ const Footer = () => {
 
             <div className="mt-4 flex flex-col gap-3">
 
-              <a
-                href="#about"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-500 hover:text-pink-500">
                 About
               </a>
 
-              <a
-                href="#contact"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-500 hover:text-pink-500">
                 Contact
               </a>
 
-              <a
-                href="#careers"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-500 hover:text-pink-500">
                 Careers
               </a>
 
@@ -127,31 +100,20 @@ const Footer = () => {
 
           {/* Legal */}
           <div>
-
             <h3 className="text-sm font-bold uppercase text-gray-900">
               Legal
             </h3>
 
             <div className="mt-4 flex flex-col gap-3">
-
-              <a
-                href="#privacy"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#privacy" className="text-sm text-gray-500 hover:text-pink-500">
                 Privacy Policy
               </a>
 
-              <a
-                href="#terms"
-                className="text-sm text-gray-500 hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-500 hover:text-pink-500">
                 Terms of Service
               </a>
-
             </div>
-
           </div>
-
         </div>
 
 
@@ -170,29 +132,17 @@ const Footer = () => {
 
             {/* Bottom Links */}
             <div className="flex items-center gap-6">
-
-              <a
-                href="#privacy"
-                className="text-sm text-gray-400 transition hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-400 transition hover:text-pink-500">
                 Privacy
               </a>
 
-              <a
-                href="#terms"
-                className="text-sm text-gray-400 transition hover:text-pink-500"
-              >
+              <a href="#" className="text-sm text-gray-400 transition hover:text-pink-500">
                 Terms
               </a>
-
             </div>
-
           </div>
-
         </div>
-
       </div>
-
     </div>
   );
 };
