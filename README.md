@@ -5,8 +5,8 @@ A simple and interactive React application where users can explore different web
 
 ## Live Demo
 
-**Live Site:** [Add your live website link here]
-**GitHub Repository:** [Add your GitHub repository link here]
+**Live Site:** https://dev-stack-assignment-riju.netlify.app/
+**GitHub Repository:** 
 
 ## Technologies Used
 -- React
